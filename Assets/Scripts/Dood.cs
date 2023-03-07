@@ -8,6 +8,6 @@ public class Dood : MonoBehaviour
 
     public void BeADood()
     {
-        Debug.Log("Im a conflicted dudet");
+        Debug.Log("Im a doooood");
     }
 }
